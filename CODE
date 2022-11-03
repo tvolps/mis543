@@ -9,14 +9,11 @@
 # install.packages("dummy")
 # install.packages("corrplot")
 
-
-
 # Load appropriate packages
 library(tidyverse)
 library(olsrr)
 library(dummy)
 library(corrplot)
-
 
 # set working directory
 setwd("C:\\Users\\volpe\\OneDrive\\Documents\\trevor college\\Data Mining")
